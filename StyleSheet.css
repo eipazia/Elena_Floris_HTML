@@ -1,0 +1,28 @@
+﻿body {
+    background-color:aquamarine;
+}
+a:hover {
+    background-color: deepskyblue;
+}
+/*colonna*/
+ul#menu li {
+    width: 200px;
+    height: 30px;
+    margin: 2px;
+    float: left;
+}
+/*riga*/
+ul#menu li a {
+    color: blue;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+
+
+/*img{
+    float: left
+}*/
+/*.button1 {
+    border-radius: 50%;
+}*/

@@ -1,0 +1,47 @@
+﻿body {
+    background-color: aquamarine;
+}
+body {
+    background-color: paleturquoise;
+}
+/*colonna*/
+ul#menu li {
+    width: 150px;
+    height: 30px;
+    margin: 2px;
+    float: left;
+}
+    /*riga*/
+    ul#menu li a {
+        color: blue;
+        width: 150px;
+        height: 30px;
+        text-align: center;
+    }
+
+a:hover {
+    background-color: aquamarine;
+}
+
+img {
+    float: left
+}
+
+.button1 {
+    border-radius: 50%;
+}
+table {
+    background-color: aquamarine;
+}
+
+   
+   
+
+    table tr {
+        font-family: 'Segoe UI';
+        text-align: center;
+    }
+ 
+p{
+    float:right
+}
